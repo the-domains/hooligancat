@@ -1,0 +1,28 @@
+name: Hooligancat
+favicon: null
+layout_spectrum: 0.8178432227578014
+typography_spectrum: 0.6517523869406432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6312477195169777
+  lightness: 0.8456784475129098
+  saturation: 0.15155989001505077
+  rhythmicContrast: 0.5143118798732758
+purpose: []
